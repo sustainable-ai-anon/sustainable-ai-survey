@@ -98,7 +98,7 @@ Figures are saved as high-resolution .png files (300 dpi), suitable for publicat
 
 If you use this code, please cite:
 
-[Theresa Willem, Marie Piraud] (2026). *[Sustainable AI research? Researchers’ perceptions of the environmental impact of AI and emissions-feedback tools]*. FAccT 2026 Proceedings.
+[Theresa Willem, Marie Piraud] (2026). *[Sustainable AI research? Researchers’ perceptions of the environmental impact of AI and emissions-feedback tools]*. In Proceedings of the 2026 ACM Conference on Fairness, Accountability, and Transparency (FAccT '26). Association for Computing Machinery, New York, NY, USA.
 
 Code available at: https://github.com/TheresaWillem/sustainable-ai-survey
 
