@@ -13,6 +13,7 @@ This repository provides scripts to reproduce key visualizations from a survey o
 ---
 
 ## Repository Structure
+```
 .
 ├── data/
 │   ├── data_template.csv       # Empty dataset template (structure only)
@@ -26,6 +27,7 @@ This repository provides scripts to reproduce key visualizations from a survey o
 │   ├── 01_Figure3 - diverging_likert_plot.R
 │   └── 02_Appendix - Faceted_demographics_analysis.R
 └── README.md
+```
 
 ---
 
