@@ -98,15 +98,15 @@ Figures are saved as high-resolution .png files (300 dpi), suitable for publicat
 
 If you use this code, please cite:
 
-[Author(s)] (Year). *[Paper Title]*.
+[Theresa Willem, Marie Piraud] (2026). *[Sustainable AI research? Researchers’ perceptions of the environmental impact of AI and emissions-feedback tools]*. FAccT 2026 Proceedings.
 
-Code available at: https://github.com/[USERNAME]/[REPOSITORY]
+Code available at: https://github.com/TheresaWillem/sustainable-ai-survey
 
 ---
 
 ## Authors
 
-Anonymous
+Theresa Willem & Marie Piraud
 
 ---
 
@@ -114,4 +114,4 @@ Anonymous
 
 For questions about the code or data, please contact:
 
-Anonymous
+theresa.willem@helmholtz-munich.de
